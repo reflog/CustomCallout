@@ -5,7 +5,7 @@ This is a custom control that you can use to emulate the look and feel of Apple'
 
 All the basic functionality, correct placement on the screen, support for **Retina**.
 
-![](https://github.com/reflog/CustomCallout/raw/master/Screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 ## Requirement
@@ -26,4 +26,4 @@ All the basic functionality, correct placement on the screen, support for **Reti
 
 ## License
 
-CustomControl is released under MIT License.
+CustomCallout is released under MIT License.
